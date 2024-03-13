@@ -7,13 +7,13 @@ export const LinksCard = () => {
         alt="avatar profile jessica"
         className="rounded-full w-[88px] h-[88px]  mb-[26px] "
       />
-      <h1 className="text-White text-2xl font-medium mb-[6px] text-spacing">
+      <h1 className="text-White text-2xl font-medium mb-[6px]">
         Jessica Randall
       </h1>
-      <h2 className="text-PrimaryGreen font-medium text-sm mb-[26px] text-spacing">
+      <h2 className="text-PrimaryGreen font-semibold text-sm mb-[26px]">
         London, United Kingdom
       </h2>
-      <h3 className="text-White font-extralight text-center text-sm mb-[25px] text-spacing-h3 ">
+      <h3 className="text-White font-light text-center text-sm mb-[25px] ">
         "Front-end developer and avid reader."
       </h3>
       <ul className="flex flex-col items-center w-full gap-[17px]">
