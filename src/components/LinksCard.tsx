@@ -1,4 +1,4 @@
-import "./LinksCard.css";
+
 export const LinksCard = () => {
   return (
     <div className=" w-full max-w-[385px] h-full max-h-[612px] flex flex-col items-center bg-DarkGrey rounded-xl py-[40px]">
@@ -7,7 +7,7 @@ export const LinksCard = () => {
         alt="avatar profile jessica"
         className="rounded-full w-[88px] h-[88px]  mb-[26px] "
       />
-      <h1 className="text-White text-2xl font-medium mb-[6px]">
+      <h1 className="text-White text-2xl font-semibold mb-[6px]">
         Jessica Randall
       </h1>
       <h2 className="text-PrimaryGreen font-semibold text-sm mb-[26px]">
